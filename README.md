@@ -22,9 +22,13 @@ My hobbies are:
 ### 🔨 Skills and Tools
 
 <p>
-  <img alt="HTML" 
+  <div style="height: 50px; width: 50px; border-radius: 10px; background-color: #E44D26;">
+    <img alt="HTML" 
+       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  </div>
+  <!-- <img alt="HTML" 
        src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" 
-       style="height: 50px; width: 50px; border-radius: 10px; background-color: #E44D26;">
+       style="height: 50px; width: 50px; border-radius: 10px; background-color: #E44D26;"> -->
   <img alt="CSS" 
        src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" 
        style="height: 50px; width: 50px; border-radius: 10px; background-color: #1572B6;">
@@ -69,22 +73,22 @@ My hobbies are:
 ### 📬 My contacts
 
 <p style="display: flex; flex-direction: column;">
-    <a href="https://github.com/Vityaooooo" target="_blank">
+    <a href="https://github.com/Vityaooooo" target="_blank" style="list-style-type: none;">
         <img alt="Github" 
              src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
              style="height: 50px; width: 50px; border-radius: 10px; background-color: white;">
     </a> 
-    <a href="ilasovviktor2666@gmail.com" target="_blank">
+    <a href="ilasovviktor2666@gmail.com" target="_blank" style="list-style-type: none;">
         <img alt="Gmail" 
              src="./img/gmail.png"
              style="height: 50px; width: 50px; border-radius: 10px; background-color: white;">
     </a> 
-    <a href="https://t.me/vityaooooo" target="_blank">
+    <a href="https://t.me/vityaooooo" target="_blank" style="list-style-type: none;">
         <img alt="Telegram" 
              src="./img/telegram.png"
              style="height: 50px; width: 50px; border-radius: 10px; background-color: white;">
     </a> 
-    <a href="https://vk.com/vityaooooo" target="_blank">
+    <a href="https://vk.com/vityaooooo" target="_blank" style="list-style-type: none;">
         <img alt="VK" 
              src="./img/vk.png"
              style="height: 50px; width: 50px; border-radius: 10px; background-color: white;">
