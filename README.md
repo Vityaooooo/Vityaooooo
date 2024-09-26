@@ -92,6 +92,6 @@ My hobbies are:
 </p>
 
 ### Experiments
-<div style="background-color: white; height: 500px">
+<p style="background-color: white; height: 500px">
 Hi everyone!
-</div>
+</p>
