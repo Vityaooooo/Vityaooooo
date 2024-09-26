@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Skills and Tools
 
 <p>
-  <img alt="HTML" src="https://www.flaticon.com/ru/free-icon/html-5_174854?term=html&page=1&position=2&origin=search&related_id=174854" style="border-radius: 3px;">
-  <img alt="CSS" src="https://www.flaticon.com/ru/free-icon/css-3_732190?term=css&page=1&position=1&origin=search&related_id=732190" style="border-radius: 3px;">
-  <img alt="JS" src="https://www.flaticon.com/ru/free-icon/js_5968292?term=js&page=1&position=2&origin=search&related_id=5968292" style="border-radius: 3px;">
+  <img alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" style="border-radius: 3px;">
+  <img alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" style="border-radius: 3px;">
+  <img alt="JS" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="border-radius: 3px;">
 </p>
