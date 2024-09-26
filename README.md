@@ -69,20 +69,20 @@ My hobbies are:
 ### 📬 My contacts
 
 <p style="display: flex; flex-direction: column;">
-    <a href="https://github.com/Vityaooooo" target="_blank" style="list-style-type: none;">
+    <a href="https://github.com/Vityaooooo" target="_blank" style="list-style-type: none; text-decoration: none;">
         <img alt="Github" 
              src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
              style="height: 50px; width: 50px; border-radius: 10px; background-color: white;">
     </a> 
-    <a href="ilasovviktor2666@gmail.com" target="_blank" style="list-style-type: none;">
+    <a href="ilasovviktor2666@gmail.com" target="_blank" style="list-style-type: none; text-decoration: none;">
         <img alt="Gmail" 
              src="./img/gmail.png"
              style="height: 50px; width: 50px; border-radius: 10px; background-color: white;">
     </a> 
-    <a href="https://t.me/vityaooooo" target="_blank" style="list-style-type: none;">
+    <a href="https://t.me/vityaooooo" target="_blank" style="list-style-type: none; text-decoration: none;">
         <img alt="Telegram" 
              src="./img/telegram.png"
-             style="height: 50px; width: 50px; border-radius: 10px; background-color: white;">
+             style="height: 50px; width: 50px; border-radius: 10px; background-color: white; text-decoration: none;">
     </a> 
     <a href="https://vk.com/vityaooooo" target="_blank" style="list-style-type: none;">
         <img alt="VK" 
