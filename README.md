@@ -22,9 +22,12 @@ My hobbies are:
 ### 🔨 Skills and Tools
 
 <p>
-  <div style="height: 50px; width: 50px; border-radius: 10px; backround: #E44D26; background-image: url(https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg')'">
+  <div style="height: 50px; width: 50px; border-radius: 10px; background-color: #E44D26;">
+    <img alt="HTML" 
+       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" 
+       style="height: 50px; width: 50px; border-radius: 10px; backround: #E44D26;">
   </div>
-  <img alt="HTML" 
+  <!-- <img alt="HTML" 
        src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" 
        style="height: 50px; width: 50px; border-radius: 10px; backround: #E44D26;">
   <img alt="CSS" 
@@ -65,7 +68,7 @@ My hobbies are:
        style="height: 50px; width: 50px; border-radius: 10px; background-color: white;">
   <img alt="Photoshop" 
        src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" 
-       style="height: 50px; width: 50px; border-radius: 10px; background-color: #001E36;">
+       style="height: 50px; width: 50px; border-radius: 10px; background-color: #001E36;"> -->
 </p>
 
 ### 📬 My contacts
