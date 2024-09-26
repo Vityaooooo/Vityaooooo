@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://plus.unsplash.com/premium_photo-1675504585830-d124a759099c?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" />
+  <img src="https://drive.google.com/thumbnail?authuser=0&sz=w1500&id=1CEQBUDLtOa1cO9F_QufjvVUqrCRw-Sca" width="100%" />
 </div>
 
 ## Hi there, my name is Viktor Ilyasov 👋
