@@ -11,7 +11,7 @@ I'am Frontend Developer
 - :pushpin: I love to create something new or improve old
 - :mortar_board: I'm constantly learning something new
 - :globe_with_meridians: I'm looking for a team with whom we can create cool and useful products
-- :computer::running: I am currently actively looking for a job, [my is here](https://vityaooooo.github.io/job-resume/)
+- :running: I am currently actively looking for a job, [my is here](https://vityaooooo.github.io/job-resume/)
 
 My hobbies are:
 
@@ -68,7 +68,7 @@ My hobbies are:
 
 ### 📬 My contacts
 
-<p style="display: flex; flex-direction: column;">
+<p>
     <a href="https://github.com/Vityaooooo" target="_blank" style="list-style-type: none; text-decoration: none;">
         <img alt="Github" 
              src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
@@ -89,9 +89,4 @@ My hobbies are:
              src="./img/vk.png"
              style="height: 50px; width: 50px; border-radius: 10px; background-color: white;">
     </a> 
-</p>
-
-### Experiments
-<p style="background-color: white; height: 500px">
-Hi everyone!
 </p>
