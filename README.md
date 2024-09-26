@@ -24,7 +24,7 @@ My hobbies are:
 <p>
   <div style="height: 50px; width: 50px; border-radius: 10px; background-color: #E44D26;">
     <img alt="HTML" 
-       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" 
+       src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" 
        style="height: 50px; width: 50px; border-radius: 10px; backround: #E44D26;">
   </div>
   <!-- <img alt="HTML" 
