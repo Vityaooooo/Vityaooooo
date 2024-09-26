@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://drive.google.com/thumbnail?authuser=0&sz=w1500&id=1CEQBUDLtOa1cO9F_QufjvVUqrCRw-Sca" width="100%" heigth="200px"/>
+  <img src="./img/Beyond Light cut.jpg" width="100%"/>
 </div>
 
 ## Hi there, my name is Viktor Ilyasov 👋
@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Skills and Tools
+
+<p>
+  <img alt="HTML" src="https://www.flaticon.com/ru/free-icon/html-5_174854?term=html&page=1&position=2&origin=search&related_id=174854" style="border-radius: 3px;">
+  <img alt="CSS" src="https://www.flaticon.com/ru/free-icon/css-3_732190?term=css&page=1&position=1&origin=search&related_id=732190" style="border-radius: 3px;">
+  <img alt="JS" src="https://www.flaticon.com/ru/free-icon/js_5968292?term=js&page=1&position=2&origin=search&related_id=5968292" style="border-radius: 3px;">
+</p>
