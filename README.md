@@ -22,9 +22,11 @@ My hobbies are:
 ### 🔨 Skills and Tools
 
 <p>
+  <div style="height: 50px; width: 50px; border-radius: 10px; backround: #E44D26; background-image: 'https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'">>
+  </div>
   <img alt="HTML" 
        src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" 
-       style="height: 50px; width: 50px; border-radius: 10px; fill: #E44D26;">
+       style="height: 50px; width: 50px; border-radius: 10px; backround: #E44D26;">
   <img alt="CSS" 
        src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" 
        style="height: 50px; width: 50px; border-radius: 10px; background-color: #1572B6;">
