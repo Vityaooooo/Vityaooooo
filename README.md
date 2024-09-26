@@ -22,7 +22,13 @@ Here are some ideas to get you started:
 ### Skills and Tools
 
 <p>
-  <img alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" style="border-radius: 3px;">
-  <img alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" style="border-radius: 3px;">
-  <img alt="JS" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="border-radius: 3px;">
+  <img alt="HTML" 
+       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" 
+       style="height: 50px; width: 50px; border-radius: 3px;">
+  <img alt="CSS" 
+       src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" 
+       style="height: 50px; width: 50px; border-radius: 3px;">
+  <img alt="JS" 
+       src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" 
+       style="height: 50px; width: 50px; border-radius: 3px;">
 </p>
