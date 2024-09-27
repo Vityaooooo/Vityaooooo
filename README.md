@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About me
 
-I'am Frontend Developer 
+I am Frontend Developer 
 
 - :pushpin: I love to create something new or improve old
 - :mortar_board: I'm constantly learning something new
